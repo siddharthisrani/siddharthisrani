@@ -52,7 +52,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **React-Bootstrap**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **web developing, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Siddharth.israni](https://www.instagram.com/siddharth.israni?igsh=MWx1NXlsbG83cXB6aA==)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: The 'Hub' in GitHub is a nod to the idea of a centralized place where developers can collaborate and connect on projects!<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: GitHub has a secret 'Octocat' font called 'Octicons' that you can use to display custom icons in your projects!<br>
 
 <div align="center" >
 <a  href="https://github.com/siddharthisrani">
