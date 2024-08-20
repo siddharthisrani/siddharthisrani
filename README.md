@@ -52,7 +52,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **React-Bootstrap**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **web developing, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Siddharth.israni](https://www.instagram.com/siddharth.israni?igsh=MWx1NXlsbG83cXB6aA==)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:GitHub was initially created to make it easier for developers to collaborate on coding projects by using Git, the version control system created by Linus Torvalds!<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:GitHub has a feature called 'GitHub Actions' that allows you to automate workflows directly from your repository, making continuous integration and deployment a breeze!<br>
 
 <div align="center" >
 <a  href="https://github.com/siddharthisrani">
