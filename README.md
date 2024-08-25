@@ -52,7 +52,7 @@ class About extends Me {
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **React-Bootstrap**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **web developing, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Instagram: **[Siddharth.israni](https://www.instagram.com/siddharth.israni?igsh=MWx1NXlsbG83cXB6aA==)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:GitHub’s Arctic Code Vault project aims to preserve open-source code for a thousand years by storing a snapshot of all public repositories in a secure vault in the Arctic!<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact:GitHub supports 'GitHub Gists,' which are an easy way to share snippets of code or text with others, often used for quick demos or collaboration!<br>
 
 <div align="center" >
 <a  href="https://github.com/siddharthisrani">
